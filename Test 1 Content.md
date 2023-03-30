@@ -29,4 +29,4 @@ _Trả lời:_ 10
 10) Trong các tổ hợp chập 3 của 1, 2, 3, 4, 5, theo thứ tự từ điển, tổ hợp thứ 5 là?
 _Trả lời:_ 135
 
-11) 
+11) s
