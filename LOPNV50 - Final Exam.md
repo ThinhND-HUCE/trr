@@ -12,7 +12,7 @@
 <ol>
   <li></li>Với $n\in\Bbb Z$ bất kỳ, tìm số  lệnh <q>print</q> thực hiện trong chương trình
 <blockquote>
->for i = 1 to n do
+for i = 1 to n do
 
 >>for j = 1 to i do
 
