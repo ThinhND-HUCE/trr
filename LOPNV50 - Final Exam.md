@@ -3,7 +3,7 @@
 
 ## 1. Lý thuyết (học thuộc)
 <ol>
-  <li>Phát biểu, chứng minh định lý **Léma** về đánh giá thuật toán Euclid tìm ước chung lớn nhất của hai số nguyên dương. Trình bày thuật toán Euclid tìm $\gcd(2023, 1984)$</li>
+  <li>Phát biểu, chứng minh định lý <b>Léma</b> về đánh giá thuật toán Euclid tìm ước chung lớn nhất của hai số nguyên dương. Trình bày thuật toán Euclid tìm $\gcd(2023, 1984)$</li>
   <li>Phát biểu, chứng minh công thức hàm **Euler phi** tìm các số nguyên dương nhỏ hơn $n$ và nguyên tố cùng nhau với $n$. Tìm $\varPhi(1984)$</li>
   <li>...đang cập nhật</li>
 </ol>
