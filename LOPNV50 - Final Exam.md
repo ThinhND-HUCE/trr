@@ -11,6 +11,11 @@
 ## 2. Bài tập trình bày lời giải (đổi dữ liệu)
 <ol>
   <li></li>Với $n\in\Bbb Z$ bất kỳ, tìm số  lệnh 'print' thực hiện trong chương trình
+ ```matlab
+f = @(x) x^3 + 2*x - 1
+f(0)                    % -1
+f(2)                    % 11
+```
   '''python
   for i = 1 to n do
     for j = 1 to i do
