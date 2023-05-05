@@ -11,6 +11,11 @@
 ## 2. Bài tập trình bày lời giải (đổi dữ liệu)
 <ol>
   <li></li>Với $n\in\Bbb Z$ bất kỳ, tìm số  lệnh <q>print</q> thực hiện trong chương trình
+<pre>
+    tab level 0
+        tab level 1
+            tab level 2
+</pre>
 <blockquote>
 for i = 1 to n do<br>
   for j = 1 to i do<br>
