@@ -1,4 +1,5 @@
-# 1. Nguyên lý đếm
+# Đề cương câu hỏi bài kiểm tra 1/3
+## 1. Nguyên lý đếm
 1) Có bao nhiêu xâu nhị phân độ dài 3?
 _Đáp án:_ 8
 
@@ -29,4 +30,10 @@ _Trả lời:_ 10
 10) Trong các tổ hợp chập 3 của 1, 2, 3, 4, 5, theo thứ tự từ điển, tổ hợp thứ 5 là?
 _Trả lời:_ 135
 
-11) s
+
+## 2. Logic
+1) Viết giá trị chân lý của công thức mệnh đề $P = p\vee q$ thành một xâu, theo thứ tự giảm dần của các bộ phân bố giá trị.
+_Trả lời:_ 1110
+
+## 3. Tập hợp
+1) Nguyên lý bù trừ cho hai, ba tập
