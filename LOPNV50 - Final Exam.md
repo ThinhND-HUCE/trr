@@ -10,13 +10,13 @@
 
 ## 2. Bài tập trình bày lời giải (đổi dữ liệu)
 <ol>
-  <li></li>Với $n\in\Bbb Z$ bất kỳ, tìm số  lệnh `print` thực hiện trong chương trình
-  ```python
+  <li></li>Với $n\in\Bbb Z$ bất kỳ, tìm số  lệnh 'print' thực hiện trong chương trình
+  '''python
   for i = 1 to n do
     for j = 1 to i do
       for k = 1 to j - 1 do
         print i, j, k
-  ```
+  '''
   <li></li>
   <li>Cho quan hệ $\mathcal{R}$ trên tập $A$ cỡ $n = 4, 5$ hoặc 6. Tìm bao đóng bắc cầu $\mathcal{R}^*$ của $\mathcal{R}$ bằng thuật toán
     <ol>
