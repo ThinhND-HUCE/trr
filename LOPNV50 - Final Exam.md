@@ -12,10 +12,10 @@
 <ol>
   <li></li>
   <li></li>
-  <li>Cho quan hệ $\mathcal{R}$ trên tập $A$. Tìm bao đóng bắc cầu $\mathcal{R}^*$ của $\mathcal{R}$ bằng thuật toán
+  <li>Cho quan hệ $\mathcal{R}$ trên tập $A$ cỡ $n = 4, 5$ hoặc 6. Tìm bao đóng bắc cầu $\mathcal{R}^*$ của $\mathcal{R}$ bằng thuật toán
     <ol>
-      <li></li>
-      <li></li>
+      <li>nhân ma trận: ghi ra các ma trận $M, M^2,\ldots, M^n$ và $M^*$</li>
+      <li>Warshall: ghi ra các ma trận $W_0, W_1,\ldots, W_{n-1}$ và $M^*$</li>
     </ol>
   </li>
 </ol>
