@@ -10,21 +10,22 @@
 
 ## 2. Bài tập trình bày lời giải (đổi dữ liệu)
 <ol>
-  <li></li>Với $n\in\Bbb Z$ bất kỳ, tìm số  lệnh <q>print</q> thực hiện trong chương trình
+  <li>Với $n\in\Bbb Z$ bất kỳ, tìm số  lệnh <q>print</q> thực hiện trong chương trình
 <pre>
 for i = 1 to n do
   for j = 1 to i do
     for k = 1 to j - 1 do
       print i, j, k
 </pre>
-  
-  <li></li>
+  </li>
+  <li>Bằng quy nạp, chứng minh $\displaystyle \sum\limits_{i = 1}^n {\frac{1}{{i(i + 1)}}}  = \frac{n}{{n + 1}},\; \forall n\in\Bbb Z^+$</li>
   <li>Cho quan hệ $\mathcal{R}$ trên tập $A$ cỡ $n = 4, 5$ hoặc 6. Tìm bao đóng bắc cầu $\mathcal{R}^*$ của $\mathcal{R}$ bằng thuật toán
     <ol>
       <li>nhân ma trận: ghi ra các ma trận $M, M^2,\ldots, M^n$ và $M^*$</li>
       <li>Warshall: ghi ra các ma trận $W_0, W_1,\ldots, W_{n-1}$ và $M^*$</li>
     </ol>
   </li>
+  <li>...đang cập nhật</li>
 </ol>
 
 ## 3. Bài tập giải / tính bằng Python (đổi dữ liệu)
