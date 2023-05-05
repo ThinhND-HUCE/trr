@@ -32,7 +32,7 @@ for i = 1 to n do
 
 ## 3. Bài tập giải / tính bằng Python (đổi dữ liệu)
 <ol>
-  <li></li>
-  <li></li>
   <li>Giải hệ thức đệ quy $a_n = 3a_{n-1} - 2a_{n-2} + n$, biết $a_0 = 1$, $a_1 = -2$</li>
+  <li></li>
+  <li>...đang cập nhật</li>
 </ol>
