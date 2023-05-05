@@ -12,9 +12,9 @@
 <ol>
   <li></li>Với $n\in\Bbb Z$ bất kỳ, tìm số  lệnh <q>print</q> thực hiện trong chương trình
 <pre>
-for i = 1 to n do<br>
-  for j = 1 to i do<br>
-    for k = 1 to j - 1 do<br>
+for i = 1 to n do
+  for j = 1 to i do
+    for k = 1 to j - 1 do
       print i, j, k
 </pre>
   
