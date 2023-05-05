@@ -10,14 +10,19 @@
 
 ## 2. Bài tập trình bày lời giải (đổi dữ liệu)
 <ol>
-  <li>Giải hệ thức đệ quy $a_n = 3a_{n-1} - 2a_{n-2} + n$, biết $a_0 = 1$, $a_1 = -2$</li>
   <li></li>
   <li></li>
+  <li>Cho quan hệ $\mathcal{R}$ trên tập $A$. Tìm bao đóng bắc cầu $\mathcal{R}^*$ của $\mathcal{R}$ bằng thuật toán
+    <ol>
+      <li></li>
+      <li></li>
+    </ol>
+  </li>
 </ol>
 
 ## 3. Bài tập giải / tính bằng Python (đổi dữ liệu)
 <ol>
   <li></li>
   <li></li>
-  <li></li>
+  <li>Giải hệ thức đệ quy $a_n = 3a_{n-1} - 2a_{n-2} + n$, biết $a_0 = 1$, $a_1 = -2$</li>
 </ol>
