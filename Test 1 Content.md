@@ -1,19 +1,27 @@
 # Đề cương câu hỏi bài kiểm tra 1/3
 ## 1. Nguyên lý đếm
-1) Có bao nhiêu xâu nhị phân độ dài 3?
-_Đáp án:_ 8
-
-2) Trong các xâu độ dài 3, xếp theo thứ tự từ điển, xâu thứ 4 là?
-_Đáp án:_ 011
-
-3) Tìm xâu nhị phân đứng sau xâu 011?
-_Đáp án:_ 100
-
-4) Có bao nhiêu hoán vị của 3 vật?
-_Trả lời:_ 6
-
-5) Trong các hoán vị của 1, 2, 3, theo thứ tự từ điển, hoán vị thứ 2 là?
-_Trả lời:_ 132
+<ol>
+  <li>Có bao nhiêu xâu nhị phân độ dài 3?
+    <p><i>Đáp án:</i> 8</p>
+  </li>
+  <li>Trong các xâu độ dài 3, xếp theo thứ tự từ điển, xâu thứ 4 là?
+    <p><i>Đáp án:</i> 011</p>
+  </li>
+  <li>Tìm xâu nhị phân đứng sau xâu 011?
+    <p><i>Đáp án:</i> 100</p>
+  </li>
+  <li>Có bao nhiêu hoán vị của 3 vật?
+    <p><i>Đáp án:</i> 6</p>
+  </li>
+  <li>Trong các hoán vị của 1, 2, 3, theo thứ tự từ điển, hoán vị thứ 2 là?
+  <p><i>Đáp án:</i> 132</p>
+  </li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ol>
 
 6) Xét các hoán vị của 1, 2, 3, 4. Theo thứ tự từ điển, hoán vị đứng sau 2431 là?
 _Trả lời:_ 3124
