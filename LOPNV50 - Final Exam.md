@@ -1,9 +1,10 @@
 # Đề cương giới hạn nội dung thi dành cho lớp LOPNV50
 Hình thức thi:
 <ul>
- <li>abc</li> 
- </ul>
-<b>tự luận</b>, tính bằng Python trên phòng máy, <b>không dùng tài liệu (kể cả trên máy tính)</b>, thời gian <b>90 phút</b>
+  <li>tự luận, tại phòng máy, trên máy tính <b>chỉ được mở Python</b></li>
+  <li>không được dùng tài liệu (kể cả trên máy tính)</li>
+  <li>thời gian: 90 phút</li>
+</ul>
 
 ## 1. Lý thuyết (học thuộc, 2-3đ)
 <ol>
