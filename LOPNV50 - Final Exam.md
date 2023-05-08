@@ -13,7 +13,7 @@
 
 ## 2. Bài tập trình bày lời giải (đổi dữ liệu)
 <ol>
-  <li><b>Chương 9:</b> Với $n\in\Bbb Z$ bất kỳ, tìm số  lệnh <q>print</q> thực hiện trong chương trình
+  <li><b>Chương 1:</b> Với $n\in\Bbb Z$ cụ thể / bất kỳ, tìm số  lệnh <q>print</q> thực hiện trong chương trình
 <pre>
 for i = 1 to n do
   for j = 1 to i do
@@ -21,7 +21,7 @@ for i = 1 to n do
       print i, j, k
 </pre>
   </li>
-  <li>Bằng quy nạp, chứng minh $\displaystyle \sum\limits_{i = 1}^n {\frac{1}{{i(i + 1)}}}  = \frac{n}{{n + 1}},\; \forall n\in\Bbb Z^+$</li>
+  <li><b>Chương 4:</b> Bằng quy nạp, chứng minh $\displaystyle \sum\limits_{i = 1}^n {\frac{1}{{i(i + 1)}}}  = \frac{n}{{n + 1}},\; \forall n\in\Bbb Z^+$</li>
   <li>Cho quan hệ $\mathcal{R}$ trên tập $A$ cỡ $n = 4, 5$ hoặc 6. Tìm bao đóng bắc cầu $\mathcal{R}^*$ của $\mathcal{R}$ bằng thuật toán
     <ol>
       <li>nhân ma trận: ghi ra các ma trận $M, M^2,\ldots, M^n$ và $M^*$</li>
