@@ -1,5 +1,5 @@
 # Đề cương giới hạn nội dung thi dành cho lớp LOPNV50
-**Lưu ý: hết thứ 2 ngày 8/5/2023 mới chốt^.^** (thường chỉ thêm, không bớt)
+Hình thức thi: tự luận, tính bằng Python trên phòng máy, <b>không dùng tài liệu (kể cả trên máy tính)</b>, thời gian <b>90 phút</b>
 
 ## 1. Lý thuyết (học thuộc, 2-3đ)
 <ol>
@@ -50,5 +50,5 @@ Loại bài tập này không cần trình bày, chỉ ghi kết quả, mục đ
   <li>Kiểm tra thuộc tính của quan hệ hai ngôi trên một tập</li>
   <li>Đếm nghiệm nguyên không âm của phương trình $x_1 + x_2 + x_3 = 4$</li>
   <li>Giải hệ thức đệ quy $a_n = 3a_{n-1} - 2a_{n-2} + n$, biết $a_0 = 1$, $a_1 = -2$</li>
-  <li>... và nhiều câu hỏi dạng khác nữa</li>
+  <li>... và nhiều câu hỏi khác nữa</li>
 </ol>
