@@ -1,7 +1,7 @@
 # Đề cương giới hạn nội dung thi dành cho lớp LOPNV50
 **Lưu ý: hết thứ 2 ngày 8/5/2023 mới chốt^.^** (thường chỉ thêm, không bớt)
 
-## 1. Lý thuyết (học thuộc)
+## 1. Lý thuyết (học thuộc, 2-3đ)
 <ol>
   <li><b>Chương 5:</b> Trình bày và đánh giá độ phức tạp của thuật toán <b>chia đôi</b> để tính $a^n$, với $a\in\Bbb R, n\in\Bbb N$ </li>
   <li><b>Chương 7:</b> Phát biểu, chứng minh công thức hàm <b>Euler phi</b> tìm các số nguyên dương nhỏ hơn $n$ và nguyên tố cùng nhau với $n$. Tìm $\varPhi(1984)$</li>
@@ -11,7 +11,7 @@
   <li>...đang cập nhật</li>
 </ol>
 
-## 2. Bài tập trình bày lời giải (đổi dữ liệu)
+## 2. Bài tập trình bày lời giải (đổi dữ liệu, 5-6đ)
 <ol>
   <li><b>Chương 1:</b> Với $n\in\Bbb Z$ cụ thể / bất kỳ, tìm số  lệnh <q>print</q> thực hiện trong chương trình
 <pre>
@@ -43,9 +43,12 @@ def a(n):
   <li>...đang cập nhật</li>
 </ol>
 
-## 3. Bài tập giải / tính bằng Python (đổi dữ liệu)
+## 3. Bài tập giải / tính bằng Python (đổi dữ liệu 1-2đ)
+Loại bài tập này không cần trình bày, chỉ ghi kết quả, mục đích để kiểm tra kiến thức thực hành Python của sinh viên
 <ol>
-  <li><b>Chương 9:</b> Giải hệ thức đệ quy $a_n = 3a_{n-1} - 2a_{n-2} + n$, biết $a_0 = 1$, $a_1 = -2$</li>
-  <li></li>
-  <li>...đang cập nhật</li>
+  <li>Tìm ước chung lớn nhất, bội chung nhỏ nhất</li>
+  <li>Kiểm tra thuộc tính của quan hệ hai ngôi trên một tập</li>
+  <li>Đếm nghiệm nguyên không âm của phương trình $x_1 + x_2 + x_3 = 4$</li>
+  <li>Giải hệ thức đệ quy $a_n = 3a_{n-1} - 2a_{n-2} + n$, biết $a_0 = 1$, $a_1 = -2$</li>
+  <li>... và nhiều câu hỏi dạng khác nữa</li>
 </ol>
