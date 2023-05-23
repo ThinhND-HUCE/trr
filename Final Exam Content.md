@@ -1,4 +1,4 @@
-# Đề cương giới hạn nội dung thi dành cho lớp LOPNV50
+# Đề cương giới hạn nội dung thi
 Hình thức thi:
 <ul>
   <li>tự luận, tại phòng máy, trên máy tính <b>chỉ được mở Python</b></li>
