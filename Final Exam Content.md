@@ -6,7 +6,7 @@ Hình thức thi:
   <li>thời gian: 90 phút</li>
 </ul>
 
-## 1. Lý thuyết (học thuộc, 2-3đ)
+## 1. Lý thuyết (học thuộc, 2-3đ, đề ra 1 câu)
 <ol>
   <li><b>Chương 5:</b> Trình bày và đánh giá độ phức tạp của thuật toán <b>chia đôi</b> để tính $a^n$, với $a\in\Bbb R, n\in\Bbb N$ </li>
   <li><b>Chương 7:</b> Phát biểu, chứng minh công thức hàm <b>Euler phi</b> tìm các số nguyên dương nhỏ hơn $n$ và nguyên tố cùng nhau với $n$. Tìm $\varPhi(1984)$</li>
@@ -16,7 +16,7 @@ Hình thức thi:
   <li>...đang cập nhật</li>
 </ol>
 
-## 2. Bài tập trình bày lời giải (đổi dữ liệu, 5-6đ)
+## 2. Bài tập trình bày lời giải (đổi dữ liệu, 5-6đ, đề ra 3 câu)
 <ol>
   <li><b>Chương 1:</b> Với $n\in\Bbb Z$ cụ thể / bất kỳ, tìm số  lệnh <q>print</q> thực hiện trong chương trình
 <pre>
@@ -48,7 +48,7 @@ def a(n):
   <li>...đang cập nhật</li>
 </ol>
 
-## 3. Bài tập giải / tính bằng Python (đổi dữ liệu 1-2đ)
+## 3. Bài tập giải / tính bằng Python (đổi dữ liệu 1-2đ, đề ra 2 ý)
 Loại bài tập này không cần trình bày, chỉ ghi kết quả, mục đích để kiểm tra kiến thức thực hành Python của sinh viên
 <ol>
   <li>Tìm ước chung lớn nhất, bội chung nhỏ nhất</li>
