@@ -21,7 +21,7 @@
     <ol>
       <li>Kiểm tra $2\in A$, $0\in B, A\subseteq B$ không?</li>
       <li>Tính $A\cup B, A\cap B, A - B, A\, \Delta\, B$</li>
-      <li>Lập trình liệt kê tất cả tập con của $A\times B$</li>
+      <li>Lập trình liệt kê tất cả cặp của $A\times B$</li>
       <li>Lập trình liệt kê tất cả tập con của $A$</li>
     </ol>
   </li>
