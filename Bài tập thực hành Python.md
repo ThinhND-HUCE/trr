@@ -33,7 +33,7 @@
 <ol>
   <li>
     <ol>
-      <li>Cho dãy Fibonacci $F_0 = 0, F_1 = 1, F_n = F_{n-1} + F_{n-2}, n\ge 2$. Tính F_{10}</li>
+      <li>Cho dãy Fibonacci $F_0 = 0, F_1 = 1, F_n = F_{n-1} + F_{n-2}, n\ge 2$. Tính $F_{10}$</li>
       <li>Cho các số Euler $a_{mk}$ thỏa mãn (1) $a_{00} = 0$, (2) $a_{mk} = 0$ với $k\ge m$ hoặc $k<0$, và (3) 
               $a_{mk} = (m-k)a_{m-1,k-1} + (k+1)a_{m-1,k}$ với $0\le k\le m-1$. Tính $a_{53}$
       </li>
