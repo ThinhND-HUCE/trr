@@ -54,7 +54,7 @@
 
 ## Chương 5
 <ol>
-  <li>Cho $A = {a, b, c, d}$, $B = {x, y, z}$, $f: A\to B$ có ma trận biểu diễn 
+  <li>Cho $A = \{a, b, c, d\}$, $B = \{x, y, z\}$, $f: A\to B$ có ma trận biểu diễn 
     $M = \begin{bmatrix}
     0 & 1 & 0 \\
     1 & 0 & 0 \\
@@ -69,4 +69,18 @@
     </ol>
   </li>
   <li>Tìm $\left\lfloor {20.23} \right\rfloor $, $\left\lceil { - 14.01} \right\rceil $</li>
+</ol>
+
+## Chương 6
+<ol>
+  <li>Cho $A = \{a, b, c, d\}$, Quan hệ $\mathcal{R}$ trên $A$ có ma trận biểu diễn
+    $M = \begin{bmatrix}
+    1 & 0 & 1 & 0 \\
+    1 & 0 & 0 & 1 \\
+    0 & 1 & 1 & 0 \\
+    0 & 0 & 1 & 1
+    \end{bmatrix}$. Kiểm tra thuộc tính phản xạ, đối xứng, phản xứng, bắc cầu của $\mathcal{R}$
+  </li>
+  <li></li>
+  <li></li>
 </ol>
