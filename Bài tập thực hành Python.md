@@ -55,14 +55,18 @@
 ## Chương 5
 <ol>
   <li>Cho $A = {a, b, c, d}$, $B = {x, y, z}$, $f: A\to B$ có ma trận biểu diễn 
-    $\begin{equation}M = \begin{bmatrix}
+    $M = \begin{bmatrix}
     0 & 1 & 0 \\
     1 & 0 & 0 \\
     1 & 0 & 0 \\
     0 & 0 & 1
-    \end{bmatrix}\end{equation}$. Kiểm tra tính đơn ánh, toàn ánh của $f$
+    \end{bmatrix}$. Kiểm tra tính đơn ánh, toàn ánh của $f$
   </li>
-  <li></li>
-  <li></li>
+  <li>
+    <ol>
+    <li>Tìm số Stirling loại II $S(7, 4)$. Có bao nhiêu cách chia 8 vật thành 5 phần khác rỗng</li>
+    <li>Có bao nhiêu toàn ánh từ tập cỡ 7 vào tập cỡ 4. Có bao nhiêu cách xếp 8 vật khác nhau vào 5 hộp khác nhau</li>
+    </ol>
+  </li>
   <li></li>
 </ol>
