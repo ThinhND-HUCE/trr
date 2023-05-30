@@ -53,6 +53,12 @@
 </ol>
 
 ## Chương 5
+$M = \begin{bmatrix}
+    0 & 1 & 0 \\
+    1 & 0 & 0 \\
+    1 & 0 & 0 \\
+    0 & 0 & 1
+    \end{bmatrix}$
 <ol>
   <li>Cho $A = {a, b, c, d}$, $B = {x, y, z}$, $f: A\to B$ có ma trận biểu diễn 
     $M = \begin{bmatrix}
