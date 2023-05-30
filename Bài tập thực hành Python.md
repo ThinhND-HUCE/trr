@@ -65,7 +65,7 @@
   <li>
     <ol>
     <li>Tìm số Stirling loại II $S(7, 4)$. Có bao nhiêu cách chia 8 vật thành 5 phần khác rỗng</li>
-    <li>Có bao nhiêu toàn ánh từ tập cỡ 7 vào tập cỡ 4. Có bao nhiêu cách xếp 8 vật khác nhau vào 5 hộp khác nhau</li>
+    <li>Có bao nhiêu toàn ánh từ tập cỡ 7 vào tập cỡ 4. Có bao nhiêu cách xếp 8 vật khác nhau vào 5 hộp khác nhau sao cho hộp nào cũng có vật</li>
     </ol>
   </li>
   <li>Tìm $\left\lfloor {20.23} \right\rfloor $, $\left\lceil { - 14.01} \right\rceil $</li>
