@@ -53,20 +53,15 @@
 </ol>
 
 ## Chương 5
-$M = \begin{bmatrix}
-    0 & 1 & 0 \\
-    1 & 0 & 0 \\
-    1 & 0 & 0 \\
-    0 & 0 & 1
-    \end{bmatrix}$
 <ol>
   <li>Cho $A = {a, b, c, d}$, $B = {x, y, z}$, $f: A\to B$ có ma trận biểu diễn 
-    $M = \begin{bmatrix}
+    $M = \left[\begin{array}{rrr}
     0 & 1 & 0 \\
     1 & 0 & 0 \\
     1 & 0 & 0 \\
     0 & 0 & 1
-    \end{bmatrix}$. Kiểm tra tính đơn ánh, toàn ánh của $f$
+    \end{array}
+    \right]$. Kiểm tra tính đơn ánh, toàn ánh của $f$
   </li>
   <li></li>
   <li></li>
