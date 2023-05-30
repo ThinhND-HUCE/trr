@@ -51,3 +51,18 @@
   
   <li>Phân tích 2023 thành thừa số nguyên tố: gói lệnh + lập trình</li>
 </ol>
+
+## Chương 5
+<ol>
+  <li>Cho $A = {a, b, c, d}$, $B = {x, y, z}$, $f: A\to B$ có ma trận biểu diễn 
+    $M = \begin{bmatrix}
+    0 & 1 & 0 \\
+    1 & 0 & 0 \\
+    1 & 0 & 0 \\
+    0 & 0 & 1
+    \end{bmatrix}$. Kiểm tra tính đơn ánh, toàn ánh của $f$
+  </li>
+  <li></li>
+  <li></li>
+  <li></li>
+</ol>
