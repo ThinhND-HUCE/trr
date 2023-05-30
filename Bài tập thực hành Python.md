@@ -40,7 +40,7 @@
     </ol>
     
   </li>
-  <li>Tìm $\gcd(2023, 1401)$ và $\lcm(2023, 1401)$, tìm khai triển Euclide của 2023 và 1401: gói lệnh + lập trình</li>
+  <li>Tìm $\gcd(2023, 1401)$ và ${\mathop{\rm lcm}\nolimits} (2023, 1401)$, tìm khai triển Euclide của 2023 và 1401: gói lệnh + lập trình</li>
   <li>
     <ol>
       <li>Tính $(2023)_5$</li>
@@ -49,5 +49,5 @@
     </ol>
   </li>
   
-  <li></li>
+  <li>Phân tích 2023 thành thừa số nguyên tố: gói lệnh + lập trình</li>
 </ol>
