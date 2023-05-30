@@ -68,5 +68,8 @@
     <li>Có bao nhiêu toàn ánh từ tập cỡ 7 vào tập cỡ 4. Có bao nhiêu cách xếp 8 vật khác nhau vào 5 hộp khác nhau</li>
     </ol>
   </li>
-  <li></li>
+  <li>Tìm $\begin{array}{*{20}{c}}
+1&2\\
+3&4
+\end{array}$</li>
 </ol>
