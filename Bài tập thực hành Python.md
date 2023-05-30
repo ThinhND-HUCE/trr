@@ -69,6 +69,7 @@
     </ol>
   </li>
   <li>Tìm $\left\lfloor {20.23} \right\rfloor $, $\left\lceil { - 14.01} \right\rceil $</li>
+  <li>Chứng minh $2{n^3} - {n^2}{\log _2}n + 1000n \in O\left( {{n^3}} \right)$</li>
 </ol>
 
 ## Chương 6
@@ -81,6 +82,5 @@
     0 & 0 & 1 & 1
     \end{bmatrix}$. Kiểm tra thuộc tính phản xạ, đối xứng, phản xứng, bắc cầu của $\mathcal{R}$
   </li>
-  <li></li>
   <li></li>
 </ol>
