@@ -31,6 +31,10 @@
 
 ## Chương 4
 <ol>
+  <li>Cho dãy Fibonacci $F_0 = 0, F_1 = 1, F_n = F_{n-1} + F_{n-2}, n\ge 2$. Tính F_{10}</li>
+  <li>Tìm $\gcd(2023, 1401)$, tìm khai triển Euclide của 2023 và 1401: gói lệnh + lập trình</li>
   <li>Tính $(2023)_5$</li>
   <li>Tìm biểu diễn của 2023 trong cơ số 8</li>
+  <li>Tính $(2023)_5 + (1401)_5$, và $2023)_5 + (1401)_5$, kết quả vẫn trong cơ số 5</li>
+  <li></li>
 </ol>
