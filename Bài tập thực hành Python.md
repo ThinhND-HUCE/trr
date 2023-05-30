@@ -68,8 +68,5 @@
     <li>Có bao nhiêu toàn ánh từ tập cỡ 7 vào tập cỡ 4. Có bao nhiêu cách xếp 8 vật khác nhau vào 5 hộp khác nhau</li>
     </ol>
   </li>
-  <li>Tìm $\begin{array}{*{20}{c}}
-1&2\\
-3&4
-\end{array}$</li>
+  <li>Tìm $\left\lfloor {20.23} \right\rfloor $, $\left\lceil { - 14.01} \right\rceil $</li>
 </ol>
