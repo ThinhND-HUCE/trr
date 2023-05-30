@@ -28,3 +28,9 @@
   
   <li></li>
 </ol>
+
+## Chương 4
+<ol>
+  <li>Tính $(2023)_5$</li>
+  <li>Tìm biểu diễn của 2023 trong cơ số 8</li>
+</ol>
