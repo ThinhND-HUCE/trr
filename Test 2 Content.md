@@ -10,6 +10,12 @@
   <li>Tìm biểu diễn của 1966 trong cơ số 5
     <p><i>Đáp án:</i> $(30331)_5$</p>
   </li>
+  <li>Phân tích 1960 thành thừa số nguyên tố
+    <p><i>Đáp án:</i> $2^3 \cdot 5 \cdot 7^2$</p>
+  </li>
+  <li>Số 1960 có bao nhiêu ước nguyên dương?
+    <p><i>Đáp án:</i> 24</p>
+  </li>
   <li>...
     <p><i>Đáp án:</i> ...</p>
   </li>
