@@ -35,4 +35,17 @@
   <li>Tìm số Stirling loại hai $S(5, 3)$ (số cách chia 5 vật thành 3 phần khác rỗng, không quan tâm thứ tự các phần)
     <p><i>Đáp án:</i> 25</p>
   </li>
+  <li>...
+    <p><i>Đáp án:</i> ...</p>
+  </li>
+</ol>
+
+## 6. Quan hệ
+<ol>
+  <li>Có bao nhiêu quan hệ từ tập cỡ 2 vào tập cỡ 3?
+    <p><i>Đáp án:</i> 64</p>
+  </li>
+  <li>...
+    <p><i>Đáp án:</i> ...</p>
+  </li>
 </ol>
