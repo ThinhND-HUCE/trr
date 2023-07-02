@@ -4,6 +4,6 @@ _Thời gian:_ tiết 2-5
 
 _Link Zoom:_ https://us04web.zoom.us/j/71123118614?pwd=jbDJjACT3MvoH0xrQaiTdJIWmOFZnL.1
 
-(Cập nhật cho khung giờ: 10h10 -- 11h)
+(Cập nhật cho khung giờ: 10h45 -- 11h30)
 
 * Sinh viên vào xem thông báo **1 ngày** trước mỗi buổi học
