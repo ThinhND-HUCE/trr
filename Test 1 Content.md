@@ -22,8 +22,8 @@
   <li>Có bao nhiêu cách xếp 3 vật lấy ra từ 5 vật?
     <p><i>Đáp án:</i> 60</p>
   </li>
-  <li>Trong các chỉnh hợp chập 3 của 1, 2, 3, theo thứ tự từ điển, chỉnh hợp thứ 9 là?
-    <p><i>Đáp án:</i> 231</p>
+  <li>Trong các chỉnh hợp chập 3 của 1, 2, 3, 4 theo thứ tự từ điển, chỉnh hợp thứ 5 là?
+    <p><i>Đáp án:</i> 142</p>
   </li>
   <li>Có bao nhiêu cách chọn 3 vật từ 5 vật?
     <p><i>Đáp án:</i> 10</p>
