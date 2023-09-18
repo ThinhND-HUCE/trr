@@ -31,10 +31,17 @@
   <li>Trong các tổ hợp chập 3 của 1, 2, 3, 4, 5, theo thứ tự từ điển, tổ hợp thứ 5 là?
     <p><i>Đáp án:</i> 135</p>
   </li>
-  <li>Có bao nhiêu hoán vị (lặp) các chữ cái của từ OUTPUT?
-    <p><i>Đáp án:</i> 180</p>
+  <li>Có bao nhiêu hoán vị (lặp) các chữ cái của từ COOL?
+    <p><i>Đáp án:</i> 12</p>
     <p>Trong các hoán vị trên, theo thứ tự từ điển, từ xếp thứ 10 là?</p>
-    <p><i>Đáp án:</i> OTTPUU</p>
+    <p><i>Đáp án:</i> LOCO</p>
+  </li>
+  <li>Có bao nhiêu cách chọn 4 vật (có lặp) từ 3 vật A, B, C?
+    <p><i>Đáp án</i> 15</p>
+    <p>Trong các cách chọn trên, xếp theo thứ tự từ điển, cách chọn thứ 5 là?</p>
+    <p><i>Đáp án</i> AABC</p>
+  </li>
+  <li>
   </li>
   <li>... đang cập nhật</li>
 </ol>
