@@ -37,11 +37,14 @@
     <p><i>Đáp án:</i> LOCO</p>
   </li>
   <li>Có bao nhiêu cách chọn 4 vật (có lặp) từ 3 vật A, B, C?
-    <p><i>Đáp án</i> 15</p>
+    <p><i>Đáp án:</i> 15</p>
     <p>Trong các cách chọn trên, xếp theo thứ tự từ điển, cách chọn thứ 5 là?</p>
-    <p><i>Đáp án</i> AABC</p>
+    <p><i>Đáp án:</i> AABC</p>
   </li>
-  <li>
+  <li>Có bao nhiêu nghiệm nguyên không âm của phương trình $x_1 + x_2 + x_3 = 4$?
+    <p><i>Đáp án:</i> 15</p>
+    <p>Trong các nghiệm trên, xếp theo thứ tự từ điển, nghiệm thứ 5 (viết liên tiếp các số hạng thành xâu) là?</p>
+    <p><i>Đáp án:</i> 040</p>
   </li>
   <li>... đang cập nhật</li>
 </ol>
