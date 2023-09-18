@@ -50,6 +50,8 @@
     <p><i>Đáp án:</i> 512</p>
     <p>Trong các tổng riêng trên, theo thứ tự từ điển, tổng riêng thứ 500 (viết liên tiếp các số hạng thành xâu) là?</p>
     <p><i>Đáp án:</i> 613</p>
+    <p>Trong các tổng riêng trên, theo thứ tự từ điển, tổng riêng 4 số hạng xếp thứ 10 là?</p>
+    <p><i>Đáp án:</i> sinh viên tự làm</p>
   </li>
   <li>... đang cập nhật</li>
 </ol>
