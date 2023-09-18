@@ -68,6 +68,12 @@
 ## 3. Tập hợp
 <ol>
   <li>Nguyên lý bù trừ cho hai, ba tập</li>
+  <li>Có bao nhiêu tập con của tập cỡ 10?
+    <p><i>Đáp án:</i> 1024</p>
+  </li>
+  <li>Trong các tập con của tập {1, 2, 3, 4}, theo thứ tự từ điển, tập thứ 8 (viết liên tiếp các phần tử thành xâu) là?
+    <p><i>Đáp án:</i> 134</p>
+  </li>
   <li>... đang cập nhật</li>
 </ol>
 
