@@ -31,6 +31,11 @@
   <li>Trong các tổ hợp chập 3 của 1, 2, 3, 4, 5, theo thứ tự từ điển, tổ hợp thứ 5 là?
     <p><i>Đáp án:</i> 135</p>
   </li>
+  <li>Có bao nhiêu hoán vị (lặp) các chữ cái của từ OUTPUT?
+    <p><i>Đáp án:</i> 180</p>
+    <p>Trong các hoán vị trên, theo thứ tự từ điển, từ xếp thứ 10 là?</p>
+    <p><i>Đáp án:</i> OTTPUU</p>
+  </li>
   <li>... đang cập nhật</li>
 </ol>
 
