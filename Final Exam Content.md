@@ -11,7 +11,7 @@ Hình thức thi:
   <li><b>Chương 5:</b> Trình bày và đánh giá độ phức tạp của thuật toán <b>chia đôi</b> để tính $a^n$, với $a\in\Bbb R, n\in\Bbb N$ </li>
   <li><b>Chương 7:</b> Phát biểu, chứng minh công thức hàm <b>Euler phi</b> tìm các số nguyên dương nhỏ hơn $n$ và nguyên tố cùng nhau với $n$. Tìm $\varPhi(1984)$</li>
   <li><b>Chương 8:</b> Số <b>Catalan</b> là gì? Trình bày hệ thức đệ quy của số Catalan, và phương pháp hàm sinh để tìm công thức tường minh của nó</li>
-  <li><b>Chương 9:</b> Phát biểu, chứng minh định lý <b>Léma</b> về đánh giá thuật toán <b>Euclid</b> tìm ước chung lớn nhất của hai số nguyên dương. Trình bày thuật toán Euclid tìm $\gcd(2023, 1984)$</li>
+  <li><b>Chương 9:</b> Phát biểu, chứng minh định lý <b>Lamé</b> về đánh giá thuật toán <b>Euclid</b> tìm ước chung lớn nhất của hai số nguyên dương. Trình bày thuật toán Euclid tìm $\gcd(2023, 1984)$</li>
   <li><b>Chương 9:</b> Trình bày và đánh giá độ phức tạp của thuật toán <b>sắp xếp trộn</b></li>
   <li>...đang cập nhật</li>
 </ol>
