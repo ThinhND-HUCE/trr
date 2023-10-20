@@ -23,6 +23,9 @@
 
 ## 5. Hàm
 <ol>
+  <li>Có bao nhiêu quan hệ từ tập cỡ 2 vào tập cỡ 3?
+    <p><i>Đáp án:</i> 64</p>
+  </li>
   <li>Có bao nhiêu hàm từ tập cỡ 4 vào tập cỡ 3 (số cách xếp 4 vật vào 3 hộp)?
     <p><i>Đáp án:</i> 81</p>
   </li>
@@ -42,9 +45,6 @@
 
 ## 6. Quan hệ
 <ol>
-  <li>Có bao nhiêu quan hệ từ tập cỡ 2 vào tập cỡ 3?
-    <p><i>Đáp án:</i> 64</p>
-  </li>
   <li>...
     <p><i>Đáp án:</i> ...</p>
   </li>
