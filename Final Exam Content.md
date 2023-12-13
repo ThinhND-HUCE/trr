@@ -33,7 +33,12 @@ for i = 1 to n do
       print i, j, k
 </pre>
   </li>
-  <li><b>Chương 4:</b> <i>(Dùng phương pháp quy nạp toán học chứng minh các (1) đẳng thức, (2) bất đẳng thức, (3) tính chất của dãy Fibonacci, Lucas, dãy điều hòa)</i> Bằng quy nạp, chứng minh $\displaystyle \sum\limits_{i = 1}^n {\frac{1}{{i(i + 1)}}}  = \frac{n}{{n + 1}},\; \forall n\in\Bbb Z^+$</li>
+  <li><b>Chương 4:</b> <i>(Dùng phương pháp quy nạp toán học chứng minh các (1) đẳng thức, (2) bất đẳng thức, (3) tính chất của dãy Fibonacci, Lucas, dãy điều hòa)</i> Bằng quy nạp, chứng minh
+    <ol>
+      <li>$\displaystyle \sum\limits_{i = 1}^n {\frac{1}{{i(i + 1)}}}  = \frac{n}{{n + 1}},\; \forall n\in\Bbb Z^+$</li>
+      <li></li>
+    </ol>
+  </li>
   <li><b>Chương 6:</b> Cho quan hệ $\mathcal{R}$ trên tập $A$ cỡ $n = 4, 5$ hoặc 6. Tìm bao đóng bắc cầu $\mathcal{R}^*$ của $\mathcal{R}$ bằng thuật toán
     <ol>
       <li>nhân ma trận: ghi ra các ma trận $M, M^2,\ldots, M^n$ và $M^*$</li>
