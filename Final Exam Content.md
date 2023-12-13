@@ -63,10 +63,11 @@ for i = 1 to n do
 </ol>
 
 ## 3. Bài tập giải / tính bằng Python (đổi dữ liệu, 1đ, đề lấy 1 câu)
-Loại bài tập này không cần trình bày, chỉ ghi kết quả, mục đích để kiểm tra kiến thức thực hành / tự học Python của sinh viên
+Loại bài tập này không cần trình bày, chỉ ghi kết quả, mục đích để kiểm tra kỹ năng thực hành / tự học Python của sinh viên
 <ol>
-  <li>Tìm ước chung lớn nhất, bội chung nhỏ nhất</li>
-  <li>Kiểm tra thuộc tính của quan hệ hai ngôi trên một tập</li>
+  <li>Câu nào đó trong bài kiểm tra giữa kỳ</li>
+  <li>Kiểm tra một quan hệ có là hàm / đơn ánh /  toàn ánh bằng ma trận quan hệ</li>
+  <li>Kiểm tra thuộc tính của quan hệ hai ngôi trên một tập bằng ma trận quan hệ</li>
   <li>Đếm nghiệm nguyên không âm của phương trình $x_1 + x_2 + x_3 = 4$</li>
   <li>... và nhiều câu hỏi khác nữa</li>
 </ol>
