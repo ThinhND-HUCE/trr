@@ -17,7 +17,7 @@ Hình thức thi:
       <li>không có hộp nào chứa vật cùng số với nó</li>
     </ol>
   </li>
-  <li><b>Chương 9:</b> Trình bày và đánh giá độ phức tạp của thuật toán <b>sắp xếp trộn</b></li>
+  <li><b>Chương 7:</b> (Đếm toàn ánh) Cho các số nguyên dương $m\le n$. Nêu và chứng minh công thức đếm số toàn ánh từ tập cỡ $m$ vào tập cỡ $n$.</li>
   <li>...đang cập nhật</li>
 </ol>
 
