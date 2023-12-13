@@ -23,7 +23,7 @@ Hình thức thi:
   
 </ol>
 
-## 2. Bài tập trình bày lời giải (dạng bài tập, thay số / đổi dữ liệu, 6-7đ, đề lấy 3 câu)
+## 2. Bài tập trình bày lời giải (thay số / đổi dữ liệu, 6-7đ, đề lấy 3 câu)
 <ol>
   <li><b>Chương 1:</b> <i>(Dùng các nguyên lý đếm cơ bản để đếm số chu trình tối giản trong các vòng lặp xác đinh)</i> Với $n\in\Bbb Z^+$ cụ thể / bất kỳ, tìm số  lệnh <q>print</q> thực hiện trong chương trình
 <pre>
@@ -60,9 +60,6 @@ for i = 1 to n do
     </ol>
   </li>
 
-  <li><b>Chương 6:</b>
-  </li>
-  <li>...đang cập nhật</li>
 </ol>
 
 ## 3. Bài tập giải / tính bằng Python (đổi dữ liệu 1-2đ, đề ra 2 ý)
