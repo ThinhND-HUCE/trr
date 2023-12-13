@@ -19,7 +19,7 @@ Hình thức thi:
     Với $n = 10$, có bao nhiêu cách xếp như vậy?
   </li>
   <li><b>Chương 7:</b> (Đếm toàn ánh) Cho các số nguyên dương $m\ge n$. Nêu và chứng minh công thức đếm số toàn ánh từ tập cỡ $m$ vào tập cỡ $n$. Lập bảng tính số toàn ánh với $5\ge m\ge n\ge 1$</li>
-  <li>...đang cập nhật</li>
+  
 </ol>
 
 ## 2. Bài tập trình bày lời giải (đổi dữ liệu, 6-7đ, đề lấy 3 câu)
