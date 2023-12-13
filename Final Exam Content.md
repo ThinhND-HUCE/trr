@@ -51,6 +51,15 @@ for i = 1 to n do
       <li>Xác định các lớp tương đương theo quan hệ $\mathcal{R}$</li>
     </ol>
   </li>
+  <li><b>Chương 6:</b> <i>(Quan hệ thứ tự)</i> Cho tập $A$ cỡ $n = 6, 7$, quan hệ $\mathcal{R}$ trên $A$.
+    <ol>
+      <li>Xác định ma trận quan hệ $M$ của $\mathcal{R}$. Từ đó chỉ ra $\mathcal{R}$ là quan hệ thứ tự</li>
+      <li>Xây dựng biểu đồ Hasse cho $\mathcal{R}$</li>
+      <li>Chỉ ra một sắp xếp tôpô của $\mathcal{R}$</li>
+      <li>Chỉ ra các phần tử tối đại, tối tiểu của $A$ theo quan hệ thứ tự $\mathcal{R}$</li>
+    </ol>
+  </li>
+
   <li><b>Chương 6:</b>
   </li>
   <li>...đang cập nhật</li>
