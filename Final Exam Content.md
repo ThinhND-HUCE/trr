@@ -37,8 +37,6 @@ for i = 1 to n do
     <ol>
       <li>$\displaystyle \sum\limits_{i = 1}^n {\frac{1}{{i(i + 1)}}}  = \frac{n}{{n + 1}},\; \forall n\in\Bbb Z^+$</li>
       <li>${F_{n + 2}} = 1 + {F_1} + {F_2} +  \cdots  + {F_n},\;\forall n \in {\Bbb Z^ + }$</li>
-      <li></li>
-      <li></li>
     </ol>
   </li>
   <li><b>Chương 6:</b> Cho quan hệ $\mathcal{R}$ trên tập $A$ cỡ $n = 4, 5$ hoặc 6. Tìm bao đóng bắc cầu $\mathcal{R}^*$ của $\mathcal{R}$ bằng thuật toán
