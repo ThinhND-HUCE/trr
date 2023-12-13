@@ -45,17 +45,7 @@ for i = 1 to n do
       <li>Warshall: ghi ra các ma trận $W_0, W_1,\ldots, W_{n-1}$ và $M^*$</li>
     </ol>
   </li>
-  <li><b>Chương 9:</b> Cho hàm $a(n)$ định nghĩa bằng đệ quy.
-<pre>
-def a(n):
-    if n == 0:
-        return 1
-    return 2 * a(n-1) + 1
-</pre>
-    <ol>
-      <li>Tính $a(3)$</li>
-       <li></li> Đặt $f_n$ là số các phép toán số học và phép so sánh dùng để tính $a(n)$. Lập hệ thức đệ quy cho dãy $(f_n)$ và giải $f_n$.
-    </ol>
+  <li><b>Chương 6:</b>
   </li>
   <li>...đang cập nhật</li>
 </ol>
