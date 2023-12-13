@@ -9,6 +9,7 @@ Hình thức thi:
 ## 1. Lý thuyết (học thuộc, 2-3đ, đề lấy 1 câu)
 <ol>
   <li><b>Chương 4:</b> Phát biểu, chứng minh định lý <b>Lamé</b> về đánh giá thuật toán <b>Euclid</b> tìm ước chung lớn nhất của hai số nguyên dương. Minh họa thuật toán Euclid tìm $\gcd(2024, 1966)$</li>
+  <li><b>Chương 4:</b> Trình bày thuật toán Euclid. Từ đó trình bày phương pháp tìm khai triển Euclid của hai số nguyên dương. Tìm khai triển Euclid của 2024 và 1966</li>
   <li><b>Chương 5:</b> Trình bày và đánh giá độ phức tạp của thuật toán <b>chia đôi</b> để tính $a^n$, với $a\in\Bbb R, n\in\Bbb N$. Minh họa giá trị của các biến trong thuật toán khi tính $a^{10}$</li>
   <li><b>Chương 7:</b> Phát biểu, chứng minh công thức hàm <b>Euler phi</b> tìm các số nguyên dương nhỏ hơn $n$ và nguyên tố cùng nhau với $n$. Tìm $\varPhi(1966)$</li>
   <li><b>Chương 7:</b> (Bài toán ghép cặp) Cho $n$ vật đánh số từ 1 tới $n$, và $n$ hộp đánh số từ 1 tới $n$. Xếp $n$ vật vào $n$ hộp sao cho mỗi hộp chỉ chứa 1 vật. Có bao nhiêu cách xếp để
@@ -33,7 +34,6 @@ for i = 1 to n do
 </pre>
   </li>
   <li><b>Chương 4:</b> <i>(Dùng phương pháp quy nạp toán học chứng minh các (1) đẳng thức, (2) bất đẳng thức, (3) tính chất của dãy Fibonacci, Lucas, dãy điều hòa)</i> Bằng quy nạp, chứng minh $\displaystyle \sum\limits_{i = 1}^n {\frac{1}{{i(i + 1)}}}  = \frac{n}{{n + 1}},\; \forall n\in\Bbb Z^+$</li>
-  <li>Tìm ước chung lớn nhất, bội chung nhỏ nhất, và khai triển Euclid của hai số nguyên dương</li>
   <li><b>Chương 6:</b> Cho quan hệ $\mathcal{R}$ trên tập $A$ cỡ $n = 4, 5$ hoặc 6. Tìm bao đóng bắc cầu $\mathcal{R}^*$ của $\mathcal{R}$ bằng thuật toán
     <ol>
       <li>nhân ma trận: ghi ra các ma trận $M, M^2,\ldots, M^n$ và $M^*$</li>
