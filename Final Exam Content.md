@@ -33,7 +33,7 @@ for i = 1 to n do
       print i, j, k
 </pre>
   </li>
-  <li><b>Chương 4:</b> <i>(Dùng phương pháp quy nạp toán học chứng minh các (1) đẳng thức, (2) bất đẳng thức, (3) tính chất của dãy Fibonacci, Lucas, dãy điều hòa)</i> Bằng quy nạp, chứng minh
+  <li><b>Chương 4:</b> <i>(Dùng phương pháp quy nạp toán học chứng minh các (1) đẳng thức, (2) bất đẳng thức, (3) tính chất của dãy Fibonacci)</i> Bằng quy nạp, chứng minh
     <ol>
       <li>$\displaystyle \sum\limits_{i = 1}^n {\frac{1}{{i(i + 1)}}}  = \frac{n}{{n + 1}},\; \forall n\in\Bbb Z^+$</li>
       <li>${F_{n + 2}} = 1 + {F_1} + {F_2} +  \cdots  + {F_n},\;\forall n \in {\Bbb Z^ + }$</li>
