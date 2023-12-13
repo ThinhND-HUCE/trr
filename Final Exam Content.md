@@ -16,6 +16,7 @@ Hình thức thi:
       <li>có ít nhất một vật cùng số với hộp chứa nó</li>
       <li>không có hộp nào chứa vật cùng số với nó</li>
     </ol>
+    Với $n = 10$, có bao nhiêu cách xếp như vậy?
   </li>
   <li><b>Chương 7:</b> (Đếm toàn ánh) Cho các số nguyên dương $m\ge n$. Nêu và chứng minh công thức đếm số toàn ánh từ tập cỡ $m$ vào tập cỡ $n$.</li>
   <li>...đang cập nhật</li>
