@@ -62,12 +62,11 @@ for i = 1 to n do
 
 </ol>
 
-## 3. Bài tập giải / tính bằng Python (đổi dữ liệu 1-2đ, đề ra 2 ý)
+## 3. Bài tập giải / tính bằng Python (đổi dữ liệu, 1đ, đề lấy 1 câu)
 Loại bài tập này không cần trình bày, chỉ ghi kết quả, mục đích để kiểm tra kiến thức thực hành Python của sinh viên
 <ol>
   <li>Tìm ước chung lớn nhất, bội chung nhỏ nhất</li>
   <li>Kiểm tra thuộc tính của quan hệ hai ngôi trên một tập</li>
   <li>Đếm nghiệm nguyên không âm của phương trình $x_1 + x_2 + x_3 = 4$</li>
-  <li>Giải hệ thức đệ quy $a_n = 3a_{n-1} - 2a_{n-2} + n$, biết $a_0 = -1$, $a_1 = 2$</li>
   <li>... và nhiều câu hỏi khác nữa</li>
 </ol>
