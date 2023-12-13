@@ -39,10 +39,16 @@ for i = 1 to n do
       <li>${F_{n + 2}} = 1 + {F_1} + {F_2} +  \cdots  + {F_n},\;\forall n \in {\Bbb Z^ + }$</li>
     </ol>
   </li>
-  <li><b>Chương 6:</b> Cho tập $A$ cỡ $n = 5$ hoặc 6, quan hệ $\mathcal{R}$ trên $A$. Tìm bao đóng bắc cầu $\mathcal{R}^*$ của $\mathcal{R}$ bằng thuật toán
+  <li><b>Chương 6:</b> <i>(Tìm bao đóng bắc cầu)</i> Cho tập $A$ cỡ $n = 5$ hoặc 6, quan hệ $\mathcal{R}$ trên $A$. Tìm bao đóng bắc cầu $\mathcal{R}^*$ của $\mathcal{R}$ bằng thuật toán
     <ol>
       <li>nhân ma trận: ghi ra các ma trận $M, M^2,\ldots, M^n$ và $M^*$</li>
       <li>Warshall: ghi ra các ma trận $W_0, W_1,\ldots, W_{n-1}$ và $M^*$</li>
+    </ol>
+  </li>
+  <li><b>Chương 6:</b> <i>(Quan hệ tương đương)</i> Cho tập $A$ cỡ $n = 6, 7$ hoặc 8, quan hệ $\mathcal{R}$ trên $A$.
+    <ol>
+      <li>Xác định ma trận quan hệ $M$ của $\mathcal{R}$. Từ đó chỉ ra $\mathcal{R}$ là quan hệ tương đương</li>
+      <li>Xác định các lớp tương đương theo quan hệ $\mathcal{R}$</li>
     </ol>
   </li>
   <li><b>Chương 6:</b>
