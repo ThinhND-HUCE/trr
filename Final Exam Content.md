@@ -6,7 +6,7 @@ Hình thức thi:
   <li>thời gian: 90 phút</li>
 </ul>
 
-## 1. Lý thuyết (học thuộc, 2-3đ, đề ra 1 câu)
+## 1. Lý thuyết (học thuộc, 2-3đ, đề lấy 1 câu)
 <ol>
   <li><b>Chương 4:</b> Phát biểu, chứng minh định lý <b>Lamé</b> về đánh giá thuật toán <b>Euclid</b> tìm ước chung lớn nhất của hai số nguyên dương. Minh họa thuật toán Euclid tìm $\gcd(2024, 1966)$</li>
   <li><b>Chương 5:</b> Trình bày và đánh giá độ phức tạp của thuật toán <b>chia đôi</b> để tính $a^n$, với $a\in\Bbb R, n\in\Bbb N$. Minh họa giá trị của các biến trong thuật toán khi tính $a^{10}$</li>
@@ -22,9 +22,9 @@ Hình thức thi:
   <li>...đang cập nhật</li>
 </ol>
 
-## 2. Bài tập trình bày lời giải (đổi dữ liệu, 5-6đ, đề ra 3 câu)
+## 2. Bài tập trình bày lời giải (đổi dữ liệu, 6-7đ, đề lấy 3 câu)
 <ol>
-  <li><b>Chương 1:</b> Với $n\in\Bbb Z$ cụ thể / bất kỳ, tìm số  lệnh <q>print</q> thực hiện trong chương trình
+  <li><b>Chương 1:</b> <i>(Dùng các nguyên lý đếm cơ bản để đếm số chu trình tối giản trong các vòng lặp xác đinh)</i> Với $n\in\Bbb Z$ cụ thể / bất kỳ, tìm số  lệnh <q>print</q> thực hiện trong chương trình
 <pre>
 for i = 1 to n do
   for j = 1 to i do
