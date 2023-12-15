@@ -8,7 +8,13 @@ Hình thức thi:
 
 ## 1. Lý thuyết (học thuộc, 2-3đ, đề lấy 1 câu)
 <ol>
-  <li><b>Chương 4:</b> Phát biểu, chứng minh định lý <b>Lamé</b> về đánh giá thuật toán <b>Euclid</b> tìm ước chung lớn nhất của hai số nguyên dương. Minh họa thuật toán Euclid tìm $\gcd(2024, 1966)$</li>
+  <li><b>Chương 4:</b> <i>(Thuật toán Euclide, định lý Lamé)</i>
+    <ol>
+      <li>Phát biểu định nghĩa đệ quy của dãy Fibonacci $\left( {{F_n}} \right)$. Chứng minh ${F_n} > {\varphi ^{n - 2}},\;\forall n \ge 3$, trong đó $\varphi  = \dfrac{{1 + \sqrt 5 }}{2}$ là tỷ lệ vàng</li>
+      <li>Trình bày thuật toán Euclid tìm ước chung lớn nhất của hai số nguyên dương.</li>
+      <li>Phát biểu, chứng minh định lý Lamé về đánh giá độ phức tạp của thuật toán Euclid</li>
+    </ol>
+    Phát biểu, chứng minh định lý <b>Lamé</b> về đánh giá thuật toán <b>Euclid</b> tìm ước chung lớn nhất của hai số nguyên dương. Minh họa thuật toán Euclid tìm $\gcd(2024, 1966)$</li>
   <li><b>Chương 4:</b> Trình bày thuật toán Euclid. Từ đó trình bày phương pháp tìm khai triển Euclid của hai số nguyên dương. Tìm khai triển Euclid của 2024 và 1966</li>
   <li><b>Chương 5:</b> Trình bày và đánh giá độ phức tạp của thuật toán <b>chia đôi</b> để tính $a^n$, với $a\in\Bbb R, n\in\Bbb N$. Minh họa giá trị của các biến trong thuật toán khi tính $a^{10}$</li>
   <li><b>Chương 7:</b> Phát biểu, chứng minh công thức hàm <b>Euler phi</b> đếm các số nguyên dương nhỏ hơn $n$ và nguyên tố cùng nhau với $n$. Tìm $\varPhi(1966)$</li>
