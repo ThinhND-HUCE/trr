@@ -16,15 +16,21 @@ Hình thức thi:
       <li>Minh họa thuật toán Euclid để tính $\gcd(2024, 1966)$</li>
     </ol>
     
-  <li><b>Chương 4:</b>
+  <li><b>Chương 4:</b> <i>(Khai triển Euclid)</i>
     <ol>
       <li>Trình bày thuật toán Euclid</li>
       <li>Xây dựng công thức tìm khai triển Euclid của hai số nguyên dương</li>
-      <li>Tìm khai triển Euclid của 2024 và 1966</li>
+      <li>Minh họa công thức trên để tìm khai triển Euclid của 2024 và 1966</li>
     </ol>
   </li>
   
-  <li><b>Chương 5:</b> Trình bày và đánh giá độ phức tạp của thuật toán <b>chia đôi</b> để tính $a^n$, với $a\in\Bbb R, n\in\Bbb N$. Minh họa giá trị của các biến trong thuật toán khi tính $a^{10}$</li>
+  <li><b>Chương 5:</b> <i>(Thuật toán chia đôi)</i>
+    <ol>
+      <li>Trình bày và đánh giá độ phức tạp của thuật toán <b>chia đôi</b> để tính $a^n$, với $a\in\Bbb R, n\in\Bbb N$</li>
+      <li>Minh họa giá trị của các biến trong thuật toán khi tính $a^{10}$</li>
+    </ol>
+  </li>
+  
   <li><b>Chương 7:</b> Phát biểu, chứng minh công thức hàm <b>Euler phi</b> đếm các số nguyên dương nhỏ hơn $n$ và nguyên tố cùng nhau với $n$. Tìm $\varPhi(1966)$</li>
   <li><b>Chương 7:</b> (Bài toán ghép cặp) Cho $n$ vật đánh số từ 1 tới $n$, và $n$ hộp đánh số từ 1 tới $n$. Xếp $n$ vật vào $n$ hộp sao cho mỗi hộp chỉ chứa 1 vật. Có bao nhiêu cách xếp để
     <ol>
