@@ -10,16 +10,16 @@ Hình thức thi:
 <ol>
   <li><b>Chương 4:</b> <i>(Thuật toán Euclide, định lý Lamé)</i>
     <ol>
-      <li>Phát biểu định nghĩa đệ quy của dãy Fibonacci $\{ F_n \}$. Chứng minh $F_n > \varphi ^{n - 2},\;\forall n \ge 3$, trong đó $\varphi  = \dfrac{1 + \sqrt 5 }{2}$ là tỷ lệ vàng</li>
-      <li>Trình bày thuật toán Euclid tìm ước chung lớn nhất của hai số nguyên dương</li>
-      <li>Phát biểu, chứng minh định lý Lamé về đánh giá độ phức tạp của thuật toán Euclid</li>
+      <li>Phát biểu định nghĩa đệ quy của dãy <b>Fibonacci</b> $\{ F_n \}$. Chứng minh $F_n > \varphi ^{n - 2},\;\forall n \ge 3$, trong đó $\varphi  = \dfrac{1 + \sqrt 5 }{2}$ là tỷ lệ vàng</li>
+      <li>Trình bày thuật toán <b>Euclid</b> tìm ước chung lớn nhất của hai số nguyên dương</li>
+      <li>Phát biểu, chứng minh định lý <b>Lamé</b> về đánh giá độ phức tạp của thuật toán Euclid</li>
       <li>Minh họa thuật toán Euclid để tính $\gcd(2024, 1966)$</li>
     </ol>
     
   <li><b>Chương 4:</b> <i>(Khai triển Euclid)</i>
     <ol>
-      <li>Trình bày thuật toán Euclid</li>
-      <li>Xây dựng công thức tìm khai triển Euclid của hai số nguyên dương</li>
+      <li>Trình bày thuật toán <b>Euclid</b></li>
+      <li>Xây dựng công thức tìm <b>khai triển Euclid</b> của hai số nguyên dương</li>
       <li>Minh họa công thức trên để tìm khai triển Euclid của 2024 và 1966</li>
     </ol>
   </li>
@@ -31,7 +31,14 @@ Hình thức thi:
     </ol>
   </li>
   
-  <li><b>Chương 7:</b> Phát biểu, chứng minh công thức hàm <b>Euler phi</b> đếm các số nguyên dương nhỏ hơn $n$ và nguyên tố cùng nhau với $n$. Tìm $\varPhi(1966)$</li>
+  <li><b>Chương 7:</b> <i>(Hàm Euler phi)</i>
+    <ol>
+      <li>Định nghĩa hàm <b>Euler phi</b></li>
+      <li>Phát biểu, chứng minh công thức hàm Euler phi</li>
+      <li>Tìm $\varPhi(1966)$</li>
+    </ol>
+  </li>
+  
   <li><b>Chương 7:</b> (Bài toán ghép cặp) Cho $n$ vật đánh số từ 1 tới $n$, và $n$ hộp đánh số từ 1 tới $n$. Xếp $n$ vật vào $n$ hộp sao cho mỗi hộp chỉ chứa 1 vật. Có bao nhiêu cách xếp để
     <ol>
       <li>có ít nhất một vật cùng số với hộp chứa nó</li>
