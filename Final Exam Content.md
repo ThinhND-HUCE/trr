@@ -10,8 +10,8 @@ Hình thức thi:
 <ol>
   <li><b>Chương 4:</b> <i>(Thuật toán Euclide, định lý Lamé)</i>
     <ol>
-      <li>Phát biểu định nghĩa đệ quy của dãy Fibonacci $\left( {{F_n}} \right)$. Chứng minh ${F_n} > {\varphi ^{n - 2}},\;\forall n \ge 3$, trong đó $\varphi  = \dfrac{{1 + \sqrt 5 }}{2}$ là tỷ lệ vàng</li>
-      <li>Trình bày thuật toán Euclid tìm ước chung lớn nhất của hai số nguyên dương.</li>
+      <li>Phát biểu định nghĩa đệ quy của dãy Fibonacci $\{ F_n \}$. Chứng minh $F_n > \varphi ^{n - 2},\;\forall n \ge 3$, trong đó $\varphi  = \dfrac{1 + \sqrt 5 }{2}$ là tỷ lệ vàng</li>
+      <li>Trình bày thuật toán Euclid tìm ước chung lớn nhất của hai số nguyên dương</li>
       <li>Phát biểu, chứng minh định lý Lamé về đánh giá độ phức tạp của thuật toán Euclid</li>
       <li>Minh họa thuật toán Euclid để tính $\gcd(2024, 1966)$</li>
     </ol>
