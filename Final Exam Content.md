@@ -46,7 +46,7 @@ Hình thức thi:
     </ol>
     Với $n = 10$, có bao nhiêu cách xếp như vậy?
   </li>
-  <li><b>Chương 7:</b> (Đếm toàn ánh) Cho các số nguyên dương $m\ge n$. Nêu và chứng minh công thức đếm số toàn ánh từ tập cỡ $m$ vào tập cỡ $n$. Lập bảng tính số toàn ánh với $5\ge m\ge n\ge 1$</li>
+  <li><b>Chương 7:</b> (Đếm toàn ánh) Cho các số nguyên dương $m\ge n$. Nêu và chứng minh công thức đếm số <b>toàn ánh</b> từ tập cỡ $m$ vào tập cỡ $n$. Lập bảng tính số toàn ánh với $5\ge m\ge n\ge 1$</li>
   
 </ol>
 
