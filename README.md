@@ -1,5 +1,5 @@
 <!--
-abc
+comment
 -->
 # Thông báo lịch thi
 * Thời gian: thứ 6, 8/3/2024, 18h phát đề
