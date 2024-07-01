@@ -1,6 +1,10 @@
 <!--
 comment
 -->
+# Thông báo
+* Lớp DQT38 học trên MS Teams vào 18h ngày 01/7/2024. Link giảng viên sẽ tạo và để ở đây sau.
+
+
 # Thông báo lịch thi lớp DQT
 * **Thời gian**: thứ 6, 8/3/2024, 18h phát đề
 * **Địa điểm**: bộ môn Toán ứng dụng
